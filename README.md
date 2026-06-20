@@ -26,3 +26,5 @@ https://github.com/rkanishdadurga-tech
 - verbal reasoning
 - blood relation puzzle 
 - number series.
+
+## FOLLOW ME ON INSTAGRAM: https://www.instagram.com/nishda.ae?igsh=MXA5YjcyZnZ1aTRxbg==
