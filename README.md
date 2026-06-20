@@ -27,4 +27,4 @@ https://github.com/rkanishdadurga-tech
 - blood relation puzzle 
 - number series.
 
-## FOLLOW ME ON INSTAGRAM: https://www.instagram.com/nishda.ae?igsh=MXA5YjcyZnZ1aTRxbg==
+## FOLLOW ME ON INSTAGRAM: -https://www.instagram.com/nishda.ae?igsh=MXA5YjcyZnZ1aTRxbg==
