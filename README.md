@@ -19,7 +19,7 @@
 ## MY PROFILE:
 https://github.com/rkanishdadurga-tech
 
-## PASSIONATE ABOUT : 
+## INTEREST: 
 - Logical thinking 
 - alphabets puzzle solving
 - logical reasoning 
@@ -32,5 +32,11 @@ https://github.com/rkanishdadurga-tech
 - Created using SPCK Editor
 - Hosted on GitHub
 - Learning Git and GitHub
+- Personal Profile
+- Skills Showcase
+- GitHub Profile Link
+- Social Media Link
+- Built using Markdown
+
 
 ## FOLLOW ME ON INSTAGRAM: -https://www.instagram.com/nishda.ae?igsh=MXA5YjcyZnZ1aTRxbg==
