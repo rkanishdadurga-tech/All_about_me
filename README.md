@@ -1,6 +1,6 @@
 # All_about_me
 # KANISHDA DURGA RAJAGOPAL 
-- (TAMILNADU)
+- TAMILNADU
 - 18-YEARS OLD
 
 ## ABOUT ME: 
@@ -19,24 +19,24 @@
 ## MY PROFILE:
 https://github.com/rkanishdadurga-tech
 
-## INTEREST: 
-- Logical thinking 
-- alphabets puzzle solving
-- logical reasoning 
-- verbal reasoning
-- blood relation puzzle 
-- number series.
+## INTERESTS: 
+- LOGICAL THINKING 
+- ALPHABETS PUZZLE 
+- LOGICAL REASONING 
+- VERBAL REASONING 
+- BLOOD RELATION PUZZLE 
+- NUMBER SERIES.
 
-## Features
+## FEATURES:
 
-- Created using SPCK Editor
-- Hosted on GitHub
-- Learning Git and GitHub
-- Personal Profile
-- Skills Showcase
-- GitHub Profile Link
-- Social Media Link
-- Built using Markdown
+- CREATED USING SPCK EDITOR 
+- HOSTED ON GITHUB 
+- LEARNING GIT AND GITHUB 
+- PERSONAL PROFILE 
+- SKILLS SHOWCASE 
+- GITHUB PROFILE LINK 
+- SOCIAL MEDIA LINK 
+- BUILT USING MARKDOWN 
 
 
 ## FOLLOW ME ON INSTAGRAM: -https://www.instagram.com/nishda.ae?igsh=MXA5YjcyZnZ1aTRxbg==
