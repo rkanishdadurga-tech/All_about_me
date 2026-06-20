@@ -27,4 +27,10 @@ https://github.com/rkanishdadurga-tech
 - blood relation puzzle 
 - number series.
 
+## Features
+
+- Created using SPCK Editor
+- Hosted on GitHub
+- Learning Git and GitHub
+
 ## FOLLOW ME ON INSTAGRAM: -https://www.instagram.com/nishda.ae?igsh=MXA5YjcyZnZ1aTRxbg==
