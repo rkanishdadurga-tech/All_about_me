@@ -1,6 +1,7 @@
 # All_about_me
-# KANISHDA
+# KANISHDA DURGA RAJAGOPAL 
 (TAMILNADU)
+18-YEARS OLD
 
 ## ABOUT ME: 
 - COLLEGE STUDENT
@@ -15,10 +16,10 @@
 - CLAUDE 101.
 - CSS
 
-##MY PROFILE:
+## MY PROFILE:
 https://github.com/rkanishdadurga-tech
 
-##PASSIONATE ABOUT : 
+## PASSIONATE ABOUT : 
 - Logical thinking 
 - alphabets puzzle solving
 - logical reasoning 
